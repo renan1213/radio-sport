@@ -1,4 +1,4 @@
-export const API_KEY = 'bb64141a0243fe89015579b8f24be5f3';
+export const API_KEY = '561b4cdc7bec40918cab071b19ed0590';
 export const INSTAGRAM_USERNAME = 'pedroregisalenda';
 export const FACEBOOK_USERNAME = 'pedroregisalenda';
 export const PHONE_NUMBER = '5588992557103';
